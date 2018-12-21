@@ -37,4 +37,4 @@
 
 ### Detalles BD ###
 
-/resources/application.properties
+src/main/resources/application.properties
